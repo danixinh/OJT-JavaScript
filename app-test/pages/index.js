@@ -16,6 +16,8 @@ export default function Home({contents}) {
       {/* 컨텐츠 */}
       <Contents contents={contents}/>
 
+      {/* 컨텐츠2 */}
+
       </div>
   )
 }
